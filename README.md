@@ -1,6 +1,6 @@
 # Conversor de Monedas | Alura Challenge
 
-Este es un proyecto en Java para un Conversor de Monedas, mi propuesta para el reto de programación de Oracle Next Generation (ONE) de Alura. Esta aplicación permite a los usuarios transformar distintas divisas utilizando las tasas de cambio en tiempo real utilizando la API de ExchangeRate.
+Este es un proyecto en Java para un Conversor de Monedas, mi propuesta para el reto de programación de Oracle Next Education (ONE) y Alura. Esta aplicación permite a los usuarios transformar distintas divisas utilizando las tasas de cambio en tiempo real utilizando la API de ExchangeRate.
 
 ## Descripción
 
